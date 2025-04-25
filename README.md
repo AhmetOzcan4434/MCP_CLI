@@ -87,6 +87,6 @@ if __name__ == "__main__":
 
 ## Destek
 
-MCP protokolü hakkında daha fazla bilgi: [modelcontextprotocol.dev](https://modelcontextprotocol.dev)
+MCP protokolü hakkında daha fazla bilgi: [modelcontextprotocol.io](https://modelcontextprotocol.io/introduction)
 
 Together API hakkında bilgi: [together.ai](https://together.ai)
